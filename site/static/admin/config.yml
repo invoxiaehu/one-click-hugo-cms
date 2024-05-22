@@ -104,3 +104,4 @@ collections: # A list of collections the CMS should be able to edit
                 name: images
                 widget: list
                 field: { label: Image, name: image, widget: image }
+publish_mode: editorial_workflow
